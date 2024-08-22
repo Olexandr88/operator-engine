@@ -30,7 +30,7 @@ Table of Contents
 ## About
 
 The Operator Engine is a backend agent implementing part of the Ocean Protocol
-[Compute to the Data OEP-12](https://github.com/oceanprotocol/OEPs/tree/master/12#infrastructure-orchestration),
+[Compute to the Data OEP-12](https://github.com/oceanprotocol-archive/OEPs/tree/master/12),
 in charge of orchestrate the compute infrastructure using Kubernetes as backend.
 Typically the Operator Engine retrieve the Workflows created by the [Operator Service](https://github.com/oceanprotocol/operator-service),
 in Kubernetes and manage the infrastructure necessary to complete the execution of the compute workflows.
