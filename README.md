@@ -5,7 +5,7 @@
 > Orchestrates a compute job
 
 ![Travis (.com) branch](https://img.shields.io/travis/com/oceanprotocol/operator-engine/develop)
-![GitHub contributors](https://img.shields.io/github/contributors/oceanprotocol/operator-engine)
+[![GitHub contributors](https://img.shields.io/github/contributors/oceanprotocol/operator-engine)](https://github.com/oceanprotocol/operator-engine/graphs/contributors)
 
 
 Table of Contents
